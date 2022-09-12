@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 body {
+	color: #88c0d0;
+	font-family: 'Roboto', sans-serif;
 	background-color: #3b4252;
 }
 
@@ -35,13 +37,26 @@ li a {
 }
 
 h1 {
+	margin: .1%;
 	font-size: 200%;
 	color: #88c0d0;
-	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	color: #5e81ac;
+	margin: 0%;
+	font-size: 100%;
+}
+
+p {
+	text-align: left;
+	font-size: 50%;
+	color: #b48ead;
 }
 
 .center {
-	margin-top: 2%;
+	font-size: 300%;
+	margin-top: 5%;
 	text-align: center;
 }
 
