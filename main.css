@@ -7,7 +7,7 @@ body {
 
 nav {
 	white-space: nowrap;
-	height: 7%;
+	height: 4%;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -21,7 +21,6 @@ nav {
 ul {
 	align-items: center;
 	display: inline;
-	margin: 20px;
 }
 
 li {
