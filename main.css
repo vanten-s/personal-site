@@ -9,7 +9,7 @@ body {
 
 nav {
 	white-space: nowrap;
-	height: 4%;
+	height: 7%;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -18,6 +18,11 @@ nav {
 	position: fixed;
 	background-color: #4c566a;
 	display: flex;
+	transition: 50ms ease;
+}
+
+nav:hover {
+	height: 10%;
 }
 
 ul {
@@ -25,19 +30,28 @@ ul {
 	display: inline;
 }
 
-li {
+.mainlistElem {
+	color: #A3BE8C;
+	text-decoration: none;
+}
+
+.navbarElemLI {
 	margin: 20%;
 	display: inline-block;
 }
 
-li a {
+.navbarElem {
+	padding: 5%;
+	border: 2px solid black;
+	font-size: 200%;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	color: #bf616a;
 }
 
 h1 {
-	margin: .1%;
+	margin: 1%;
+	margin-top: 7%;
 	font-size: 200%;
 	color: #88c0d0;
 }
