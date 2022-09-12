@@ -9,7 +9,7 @@ body {
 
 nav {
 	white-space: nowrap;
-	height: 7%;
+	height: 4em;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -18,11 +18,11 @@ nav {
 	position: fixed;
 	background-color: #4c566a;
 	display: flex;
-	transition: 50ms ease;
+	transition: 200ms ease;
 }
 
 nav:hover {
-	height: 10%;
+	height: 6em;
 }
 
 ul {
@@ -42,16 +42,21 @@ ul {
 
 .navbarElem {
 	padding: 5%;
-	border: 2px solid black;
+	border-radius: .3em;
 	font-size: 200%;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
 	color: #bf616a;
+	transition: 250ms ease;
+}
+
+.navbarElem:hover {
+	background-color: #2E3440;
 }
 
 h1 {
 	margin: 1%;
-	margin-top: 7%;
+	margin-top: 1em; 
 	font-size: 200%;
 	color: #88c0d0;
 }
@@ -70,7 +75,7 @@ p {
 
 .center {
 	font-size: 300%;
-	margin-top: 5%;
+	margin-top: 1em; 
 	text-align: center;
 }
 
