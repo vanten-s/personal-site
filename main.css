@@ -1,6 +1,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
+img {
+	display: flex;
+	top: 100px;
+}
+
 body {
 	color: #88c0d0;
 	font-family: 'Roboto', sans-serif;
@@ -25,8 +30,14 @@ nav:hover {
 	height: 6em;
 }
 
-ul {
+nav ul {
+	display: flex;
 	align-items: center;
+	justify-content: space-evenly;
+	flex: 2;
+}
+
+.center ul {
 	display: inline;
 }
 
@@ -36,8 +47,9 @@ ul {
 }
 
 .navbarElemLI {
+	display: flex;
+	flex: 2;
 	margin: 20%;
-	display: inline-block;
 }
 
 .navbarElem {
