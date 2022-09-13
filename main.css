@@ -1,6 +1,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
+h3 {
+   color: #bf616a;
+   font-size: 70%;
+   margin-top: .5em; 
+}
+
 img {
 	display: flex;
 	top: 100px;
@@ -70,14 +76,14 @@ nav ul {
 h1 {
 	margin: 1%;
 	margin-top: 1em; 
-	font-size: 200%;
+	font-size: 250%;
 	color: #88c0d0;
 }
 
 h2 {
 	color: #5e81ac;
 	margin: 0%;
-	font-size: 100%;
+	font-size: 150%;
 }
 
 p {
