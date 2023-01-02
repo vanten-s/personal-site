@@ -1,0 +1,22 @@
+start was called at 01/01/2023, 23:12:16
+('127.0.0.1', 56100) asked for /
+('127.0.0.1', 56106) asked for /main.css
+('127.0.0.1', 56116) asked for /favicon.ico
+('127.0.0.1', 56118) asked for /main.css
+('127.0.0.1', 37436) asked for /
+('127.0.0.1', 37452) asked for /main.css
+('127.0.0.1', 37458) asked for /favicon.ico
+('127.0.0.1', 37468) asked for /
+('127.0.0.1', 40444) asked for /
+('127.0.0.1', 39994) asked for /
+('127.0.0.1', 40002) asked for /
+('127.0.0.1', 47378) asked for /main.css
+('127.0.0.1', 47390) asked for /favicon.ico
+('127.0.0.1', 38358) asked for /
+('127.0.0.1', 38374) asked for /
+('127.0.0.1', 50398) asked for /
+start was called at 01/01/2023, 23:39:36
+('127.0.0.1', 55684) asked for /
+('127.0.0.1', 55688) asked for /main.css
+('127.0.0.1', 51096) asked for /
+('127.0.0.1', 56946) asked for /
