@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 h3 {
-   color: #bf616a;
+   color: #f38ba8;
    font-size: 80%;
    margin-top: .5em; 
 }
@@ -13,9 +13,9 @@ img {
 }
 
 body {
-	color: #88c0d0;
+	color: #89dceb;
 	font-family: 'Roboto', sans-serif;
-	background-color: #3b4252;
+	background-color: #1e1e2e;
 }
 
 nav {
@@ -27,7 +27,7 @@ nav {
 	width: 100%;
 	align-items: center;
 	position: fixed;
-	background-color: #4c566a;
+	background-color: #181825;
 	display: flex;
 	transition: 200ms ease;
 }
@@ -48,7 +48,7 @@ nav ul {
 }
 
 .mainlistElem {
-	color: #A3BE8C;
+	color: #a6e3a1;
 	/*text-decoration: none;*/
 }
 
@@ -65,23 +65,23 @@ nav ul {
 	font-size: 200%;
 	text-decoration: none;
 	font-family: 'Roboto', sans-serif;
-	color: #bf616a;
+	color: #eba0ac;
 	transition: 250ms ease;
 }
 
 .navbarElem:hover {
-	background-color: #2E3440;
+	background-color: #45475a;
 }
 
 h1 {
 	margin: 1%;
 	margin-top: 1em; 
 	font-size: 250%;
-	color: #88c0d0;
+	color: #89dceb;
 }
 
 h2 {
-	color: #5e81ac;
+	color: #f5c2e7;
 	margin: 0%;
 	font-size: 150%;
 }
@@ -89,7 +89,7 @@ h2 {
 p {
 	text-align: left;
 	font-size: 60%;
-	color: #b48ead;
+	color: #cba6f7;
 }
 
 .center {
